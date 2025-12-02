@@ -1,5 +1,5 @@
 export default function Home() {
-    return <h1>Uma viagem de MIL passos começa com UM passo.</h1>
+    return <h1>Cân e Dimi, amo vocês 😘</h1>
 }
 
 // export default Home;
